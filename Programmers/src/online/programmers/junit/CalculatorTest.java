@@ -11,7 +11,7 @@ public class CalculatorTest {
 
 		Calculator calculator = new Calculator();
 
-		int resultAdd = calculator.add(5, 5);
+		int resultAdd = calculator.add(10, 5);
 		
 		int resultSub = calculator.sub(5, 5);
 		
